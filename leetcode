@@ -1,0 +1,22 @@
+package main 
+
+func numIdenticalPairs(nums []int) int {
+    sum := 0
+	for ind, num := range nums{
+		for i := ind+1; i < len(nums); i++{
+			if nums[i] == num{
+				sum++
+			}
+		}
+	}
+
+	return sum
+}
+
+
+func main(){
+	
+	numIdenticalPairs([]int{1,2,3,5,6,3,2})
+
+
+}

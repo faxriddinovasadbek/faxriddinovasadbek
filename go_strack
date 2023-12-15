@@ -1,0 +1,62 @@
+package main
+
+import "fmt"
+
+type Car struct {
+	name, model, color string
+	speed, year int
+}
+
+
+func Sartirofka(car_type ...Car) {
+
+	max_speed := 0
+	new_year := 0
+	orta_speed := 0
+
+	for _, fn := range car_type{
+		if max_speed < fn.speed{
+			max_speed = fn.speed
+
+		}
+		if new_year < fn.year{
+			new_year = fn.year
+		}
+
+		orta_speed += fn.speed
+
+		
+	}
+
+	fmt.Println("max speed ",max_speed, "\nnew year", new_year, "\norta",orta_speed/3)
+}
+
+func main(){
+
+	car := Car{
+		name: "Malibu",
+		model: "Turbo",
+		color: "Black",
+		speed: 260,
+		year: 2022,
+	}
+
+	car1 := Car{
+		name: "Tahoe",
+		model: "Primere",
+		color: "White",
+		speed: 240,
+		year: 2021,
+	}
+
+	car2 := Car{
+		name: "Nissan",
+		model: "XXL",
+		color: "Yellow",
+		speed: 300,
+		year: 2023,
+	}
+
+	Sartirofka(car, car1, car2)
+
+}

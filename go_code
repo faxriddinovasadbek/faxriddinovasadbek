@@ -1,0 +1,17 @@
+package main
+
+import (
+	"fmt"
+	"strconv"
+)
+
+func main() {
+	str := "123"
+
+	for _, le := range str{
+		fmt.Println(string(le))
+		num, _ := strconv.Atoi(string(le))
+		fmt.Print(num)
+	}
+
+}

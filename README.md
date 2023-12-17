@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<div>
+  <img src="https://github.com/omadli/omadli/raw/master/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</div>
+
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=git,github,linux,python,c" /><br>

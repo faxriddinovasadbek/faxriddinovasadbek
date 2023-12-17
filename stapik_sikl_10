@@ -1,0 +1,17 @@
+import (
+	"fmt"
+	"strings"
+)
+
+func main(){
+	var num1, num2 string
+
+	fmt.Scan(&num1, &num2)
+
+	for _, num := range num2{
+	
+		if 0 != strings.Count(num1, string(num)){
+			fmt.Print(string(num), " ")
+		}	
+	}
+}	

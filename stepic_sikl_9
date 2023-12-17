@@ -1,0 +1,16 @@
+package main
+
+import "fmt"
+
+func main(){
+	var summa, foiz, size, count int
+
+	fmt.Scan(&summa, &foiz, &size)
+	
+	for summa < size {
+		summa += (summa * foiz) / 100 
+		count++
+	}
+
+	fmt.Println(count)
+}

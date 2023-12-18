@@ -1,0 +1,15 @@
+func findTheDifference(s string, t string) byte {
+
+	var sum int
+
+	for _, i := range t{
+		sum += int(i)
+	}
+
+	for _, i := range s{
+		sum -= int(i)
+	}
+
+	return byte(int(math.Abs(float64(sum))))
+	
+}

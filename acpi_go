@@ -1,0 +1,19 @@
+package main
+
+import "fmt"
+
+func main(){
+	var X, Y, Z int
+
+	fmt.Scan(&X, &Y, &Z)
+
+	sum := (X+Y) - Z
+
+	if sum > 0{
+		fmt.Println(sum)
+	}else if sum == 0{
+		fmt.Println(0)
+	}else{
+		fmt.Println("Impossible")
+	}
+}

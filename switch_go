@@ -1,0 +1,42 @@
+package main
+
+import (
+	"fmt"
+	"unicode"
+)
+
+func main() {
+
+    var r string
+
+    _, err := fmt.Scan(&r)
+
+    if err != nil {
+        panic("xato")
+    }
+
+    if len(r) != 1 {
+        fmt.Println("Faqat bir belgi kiriting.")
+        return
+    }
+
+    char := rune(r[0])
+
+    switch {
+    case unicode.IsDigit(char):
+        fmt.Printf("%c raqam.\n", char)
+    case unicode.IsLetter(char):
+        fmt.Printf("%c harf.\n", char)
+    default:
+        fmt.Printf("%c raqam va harf emas.\n", char)
+    }
+
+    switch unicode.ToLower(char) {
+    case 'a', 'e', 'i', 'o', 'u':
+        fmt.Printf("%c unli harf.\n", char)
+    case 'y':
+        fmt.Printf("%c so'nggi undosh harf.\n", char)
+    default:
+        fmt.Printf("%c undosh harf.\n", char)
+    }
+}

@@ -1,0 +1,27 @@
+package main
+
+import "fmt"
+
+type calculator struct{}
+
+func (c calculator) add(a, b float64) float64 {
+	return a + b
+}
+
+func (c calculator) subtract(a, b float64) float64 {
+	return a - b
+}
+
+func (c calculator) multi(a, b float64) float64 {
+	return a * b
+}
+
+func (c calculator) div(a, b float64) float64 {
+	return a / b
+}
+
+func main() {
+	c := calculator{}
+
+	fmt.Println(c.div(34, 3))
+}

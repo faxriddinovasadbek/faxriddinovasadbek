@@ -19,6 +19,7 @@ Here are some ideas to get you started:
   <img src="https://github.com/omadli/omadli/raw/master/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </div>
 
+<div align="center">
  </a> 
   <a href="https://t.me/Asad15576">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>

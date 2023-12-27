@@ -19,6 +19,8 @@ Here are some ideas to get you started:
   <img src="https://github.com/omadli/omadli/raw/master/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </div>
 
+</div>
+</div>
 <div align="center">
  </a> 
   <a href="https://t.me/Asad15576">
@@ -33,6 +35,7 @@ Here are some ideas to get you started:
 <div align="center">
     <img src="https://skillicons.dev/icons?i=git,github,linux,python,c" /><br>
     <img src="https://skillicons.dev/icons?i=vscode,linkedin,mysql,go" /><br>
+</div>
 </div>
 
 </div>

@@ -27,6 +27,7 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/asadbek-faxriddinov/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Twitter Badge"/>
   </a>
+  </div>
   
 <br/>
 <div align="center">

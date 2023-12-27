@@ -19,6 +19,14 @@ Here are some ideas to get you started:
   <img src="https://github.com/omadli/omadli/raw/master/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </div>
 
+ </a> 
+  <a href="https://t.me/Asad15576">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/asadbek-faxriddinov/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Twitter Badge"/>
+  </a>
+  
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=git,github,linux,python,c" /><br>

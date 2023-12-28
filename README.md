@@ -36,6 +36,8 @@ Here are some ideas to get you started:
     <img src="https://skillicons.dev/icons?i=vscode,linkedin,mysql,go,postgresql" /><br>
 </div>
 </div>
+  <br>
+  <br>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=faxriddinovasadbek&theme=algolia) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=faxriddinovasadbek&theme=algolia) 

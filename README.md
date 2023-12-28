@@ -17,9 +17,6 @@ Here are some ideas to get you started:
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=faxriddinovasadbek&theme=algolia) 
 
-<div>
-  <img src="https://github.com/omadli/omadli/raw/master/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</div>
 
 <br>
 <br>

@@ -30,16 +30,16 @@ Here are some ideas to get you started:
   <br>
   <br>
 
+  <br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=git,github,linux,python,c" /><br>
+    <img src="https://skillicons.dev/icons?i=vscode,linkedin,mysql,go,postgresql" /><br>
+</div>
+</div>
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=faxriddinovasadbek&theme=algolia) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=faxriddinovasadbek&theme=algolia) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=faxriddinovasadbek&theme=algolia) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=faxriddinovasadbek&theme=algolia) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=faxriddinovasadbek&theme=algolia&utcOffset=8) 
 
-  
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=git,github,linux,python,c" /><br>
-    <img src="https://skillicons.dev/icons?i=vscode,linkedin,mysql,go" /><br>
-</div>
-</div>

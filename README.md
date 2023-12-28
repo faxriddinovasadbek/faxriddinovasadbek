@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=faxriddinovasadbek&theme=algolia) 
 
 
 <br>
@@ -30,6 +29,13 @@ Here are some ideas to get you started:
   </a>
   <br>
   <br>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=faxriddinovasadbek&theme=algolia) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=faxriddinovasadbek&theme=algolia) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=faxriddinovasadbek&theme=algolia) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=faxriddinovasadbek&theme=algolia) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=faxriddinovasadbek&theme=algolia&utcOffset=8) 
+
   
 <br/>
 <div align="center">
@@ -37,15 +43,3 @@ Here are some ideas to get you started:
     <img src="https://skillicons.dev/icons?i=vscode,linkedin,mysql,go" /><br>
 </div>
 </div>
-
-</div>
-<h2 align="center">⚡️ Stats ⚡️</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://streak-stats.demolab.com/?user=faxriddinovasadbek&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=faxriddinovasadbek&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  
-</div>
-<br/><br/>
-<hr/>
